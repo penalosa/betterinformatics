@@ -32,16 +32,10 @@ jobs:
           repository: penalosa/betterinformatics
           path: betterinformatics
 
-      - name: Pull content into engine
+      - name: Pull content into engine & build
         working-directory: bi-engine
         run: |
           make frombi
-          ls
-          ls src
-          
-      - name: Build engine
-        working-directory: bi-engine
-        run: |
           npm i
           npm run export
           
