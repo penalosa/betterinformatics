@@ -10,7 +10,7 @@ links:
 
 ---
 
-75% closed book exam, 25% across two courseworks. Pass: 40% overall
+Hah, you need to really try on this one, it's a tough exam
 
 - [MCQ Question Cache](/drive?next=1coz6nMPFCZqR8mBU6AiDiVz0r28WMSNaSH9YcY7c6R0)
 - [Quizlet](https://quizlet.com/293000769/inf2d-flash-cards/)
