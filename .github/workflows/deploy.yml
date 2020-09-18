@@ -36,6 +36,8 @@ jobs:
         working-directory: bi-engine
         run: |
           make frombi
+          echo "Data"
+          ls src/data
           npm i
           npm run export
           
