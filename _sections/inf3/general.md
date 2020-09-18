@@ -1,7 +1,9 @@
+
 ---
 year: 3
 title: General
 pinned: true
+
 ---
 # Hello world
 - **[Facebook Group Chat](https://m.me/join/AbYnOGX74CmlbzQ2)**
