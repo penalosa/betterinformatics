@@ -36,6 +36,8 @@ jobs:
         working-directory: bi-engine
         run: |
           make frombi
+          ls
+          ls src
           
       - name: Build engine
         working-directory: bi-engine
